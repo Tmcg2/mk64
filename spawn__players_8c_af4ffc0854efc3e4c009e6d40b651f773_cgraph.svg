@@ -48,7 +48,7 @@ if (edges && edges.length) {
 <script type="text/javascript">
 var viewWidth = 791;
 var viewHeight = 501;
-var sectionId = 'dynsection-25';
+var sectionId = 'dynsection-17';
 </script>
 <script xlink:href="svgpan.js"/>
 <svg id="graph" class="graph">
@@ -97,7 +97,7 @@ var sectionId = 'dynsection-25';
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="code__80005FD0_8h.html#ad15ffdd45f78ec43b70caa021fc1863e" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="code__80005FD0_8c.html#a905a7980727b0ddf2733561b3b6b9486" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="267,-340.49 267,-359.49 359,-359.49 359,-340.49 267,-340.49"/>
 <text text-anchor="middle" x="313" y="-347.49" font-family="Helvetica,sans-Serif" font-size="10.00">func_80014DE4</text>
 </a>
@@ -172,7 +172,7 @@ var sectionId = 'dynsection-25';
 <!-- Node9 -->
 <g id="node9" class="node">
 <title>Node9</title>
-<g id="a_node9"><a xlink:href="code__80071F00_8h.html#ae288a36d96a4db6977d95327e246ec12" target="_top" xlink:title=" ">
+<g id="a_node9"><a xlink:href="osPiStartDma_8c.html#ae288a36d96a4db6977d95327e246ec12" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="271.5,-245.49 271.5,-264.49 354.5,-264.49 354.5,-245.49 271.5,-245.49"/>
 <text text-anchor="middle" x="313" y="-252.49" font-family="Helvetica,sans-Serif" font-size="10.00">osPiStartDma</text>
 </a>
@@ -187,7 +187,7 @@ var sectionId = 'dynsection-25';
 <!-- Node20 -->
 <g id="node20" class="node">
 <title>Node20</title>
-<g id="a_node20"><a xlink:href="code__80071F00_8h.html#a4283cbf896ea7ca31653640f6dd237af" target="_top" xlink:title=" ">
+<g id="a_node20"><a xlink:href="crash__screen_8c.html#a4283cbf896ea7ca31653640f6dd237af" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="410,-169.49 410,-188.49 488,-188.49 488,-169.49 410,-169.49"/>
 <text text-anchor="middle" x="449" y="-176.49" font-family="Helvetica,sans-Serif" font-size="10.00">osRecvMesg</text>
 </a>

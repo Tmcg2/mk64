@@ -16,16 +16,19 @@ var dir_68267d1309a1af8e8297ef4c3efbcdba =
     [ "code_80004740.h", "code__80004740_8h.html", "code__80004740_8h" ],
     [ "code_80005FD0.c", "code__80005FD0_8c.html", "code__80005FD0_8c" ],
     [ "code_80005FD0.h", "code__80005FD0_8h.html", "code__80005FD0_8h" ],
-    [ "code_8001F980.c", "code__8001F980_8c.html", "code__8001F980_8c" ],
-    [ "code_8001F980.h", "code__8001F980_8h.html", "code__8001F980_8h" ],
     [ "code_8003DC40.c", "code__8003DC40_8c.html", "code__8003DC40_8c" ],
     [ "code_8003DC40.h", "code__8003DC40_8h.html", "code__8003DC40_8h" ],
     [ "code_80057C60.c", "code__80057C60_8c.html", "code__80057C60_8c" ],
-    [ "code_80057C60.h", "code__80057C60_8h.html", "code__80057C60_8h" ],
+    [ "code_80057C60.h", "code__80057C60_8h.html", [
+      [ "struct_D_8018CE10", "structstruct__D__8018CE10.html", "structstruct__D__8018CE10" ]
+    ] ],
+    [ "code_80057C60_var.c", "code__80057C60__var_8c.html", "code__80057C60__var_8c" ],
     [ "code_8006E9C0.c", "code__8006E9C0_8c.html", "code__8006E9C0_8c" ],
     [ "code_8006E9C0.h", "code__8006E9C0_8h.html", "code__8006E9C0_8h" ],
     [ "code_80071F00.c", "code__80071F00_8c.html", "code__80071F00_8c" ],
-    [ "code_80071F00.h", "code__80071F00_8h.html", "code__80071F00_8h" ],
+    [ "code_80071F00.h", "code__80071F00_8h.html", [
+      [ "StarSpawn", "structStarSpawn.html", "structStarSpawn" ]
+    ] ],
     [ "code_80086E70.c", "code__80086E70_8c.html", "code__80086E70_8c" ],
     [ "code_80086E70.h", "code__80086E70_8h.html", "code__80086E70_8h" ],
     [ "code_8008C1D0.c", "code__8008C1D0_8c.html", "code__8008C1D0_8c" ],
@@ -36,9 +39,9 @@ var dir_68267d1309a1af8e8297ef4c3efbcdba =
     [ "code_80091750.h", "code__80091750_8h.html", "code__80091750_8h" ],
     [ "code_800AF9B0.c", "code__800AF9B0_8c.html", "code__800AF9B0_8c" ],
     [ "code_800AF9B0.h", "code__800AF9B0_8h.html", "code__800AF9B0_8h" ],
-    [ "code_800B45E0.c", "code__800B45E0_8c.html", "code__800B45E0_8c" ],
-    [ "code_800B45E0.h", "code__800B45E0_8h.html", "code__800B45E0_8h" ],
-    [ "common_textures.h", "common__textures_8h.html", "common__textures_8h" ],
+    [ "common_textures.h", "common__textures_8h.html", [
+      [ "UnkCommonTextureStruct0", "structUnkCommonTextureStruct0.html", "structUnkCommonTextureStruct0" ]
+    ] ],
     [ "crash_screen.c", "crash__screen_8c.html", "crash__screen_8c" ],
     [ "crash_screen.h", "crash__screen_8h.html", "crash__screen_8h" ],
     [ "data_segment2.h", "data__segment2_8h.html", "data__segment2_8h" ],
@@ -58,8 +61,12 @@ var dir_68267d1309a1af8e8297ef4c3efbcdba =
     [ "player_controller.h", "player__controller_8h.html", "player__controller_8h" ],
     [ "profiler.c", "profiler_8c.html", "profiler_8c" ],
     [ "profiler.h", "profiler_8h.html", "profiler_8h" ],
+    [ "render_player.c", "render__player_8c.html", "render__player_8c" ],
+    [ "render_player.h", "render__player_8h.html", "render__player_8h" ],
+    [ "save.c", "save_8c.html", "save_8c" ],
+    [ "save.h", "save_8h.html", "save_8h" ],
     [ "spawn_players.c", "spawn__players_8c.html", "spawn__players_8c" ],
-    [ "spawn_players.h", "spawn__players_8h.html", "spawn__players_8h" ],
+    [ "spawn_players.h", "spawn__players_8h.html", null ],
     [ "staff_ghosts.c", "staff__ghosts_8c.html", "staff__ghosts_8c" ],
     [ "staff_ghosts.h", "staff__ghosts_8h.html", "staff__ghosts_8h" ],
     [ "textures.h", "textures_8h.html", "textures_8h" ]
